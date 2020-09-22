@@ -1,0 +1,139 @@
+.*{
+
+}
+body{
+	margin: 0;
+}
+
+.teks{
+	color: black;
+	width: 925px;
+}
+
+.kepala{
+	background-color: #69d2e7;
+	/*biru*/
+	text-align: center;
+	padding: 10px;
+	font-family: garamond;
+	text-transform: bold;
+	color: black;
+	font-size: 20px;
+}
+
+.bar{
+	background-color: #f9f871 ;
+	/*kuning*/
+	/*font-family: arial narrow;*/
+	font-size: 15px;
+	padding: 10px;
+	font-family: garamond;
+	text-transform: bold;
+
+}
+
+.ulukasok{
+	color: black;
+	font-family: garamond;
+	font-size: 20px;
+	
+}
+
+.bakgron{
+	background-color: #f9f871;
+	/*kuning*/
+	padding: 20px;
+	width: 980px;
+}
+
+.potoku1{
+	background-color: #69d2e7;
+	/*biru */
+	width: 195px;
+	height: 523px;
+	padding: 15px;
+	margin-top: -555px;
+	margin-left: 1038px;
+	color: black;
+}
+
+.candi{
+	color: black;
+	font-family: garamond;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.wisatapopuler{
+	background-color: #69d2e7;
+	/*biru*/
+	width: 195px;
+	height: 400px;
+	padding: 15px;
+	margin-top: -630px;
+	margin-left: 1038px;
+	color: black;
+	font-family: garamond;
+}
+
+.followme{
+	background-color: #69d2e7;
+	/*biru*/
+	width: 195px;
+	height: 200px;
+	padding: 15px;
+	margin-top: 10px;
+	margin-left: 1038px;
+	color: black;
+	font-family: garamond;
+}
+
+.footer{
+	height: 20px;
+	width: 1243px;
+	padding: 10px;
+	text-align: center;
+	font-size: 16px;
+	background-color: #69d2e7;
+	/*biru*/
+	color: black;
+	margin-top: 10px;
+	font-family: garamond;
+}
+
+.footerabout{
+	height: 20px;
+	width: 1260px;
+	padding: 10px;
+	text-align: center;
+	font-size: 16px;
+	background-color: #69d2e7;
+	/*biru*/
+	color: black;
+	margin-top: 67px;
+	font-family: garamond;
+}
+
+.footergalery{
+	height: 20px;
+	width: 1260px;
+	padding: 10px;
+	text-align: center;
+	font-size: 16px;
+	background-color: #69d2e7;
+	/*biru*/
+	color: black;
+	margin-top: 10px;
+	font-family: garamond;
+}
+
+.kampar{
+	/*background-color: #f9f871;*/
+	/*kuning*/
+	width: 200px;
+	height: 300px;
+	padding: 15px;
+	margin-top: -240px;
+	margin-left: 1000px;
+	color: black;
+}
